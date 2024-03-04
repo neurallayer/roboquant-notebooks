@@ -1,1 +1,2 @@
 roboquant[yahoo,ibkr]
+matplotlib
