@@ -18,21 +18,15 @@ This repo contains a number of Python Jupyter Notebooks that demonstrate hwo to 
 If you don't want to install anything local, you can try roboquant in an online Jupyter environment [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neurallayer/roboquant-notebooks/HEAD?labpath=%2Fintro_roboquant.ipynb)
 
  
-Otherwise, you can install roboquant including one or more of the optional dependencies if you require certain functionality:
+Otherwise, you can install roboquant including one or more of the optional dependencies if you require certain functionality.
+For example:
 
 ```shell
 # market data from Yahoo Finance using the YahooFeed
-python3 -m pip install --upgrade "roboquant[yahoo]"
-
-# PyTorch based strategies using RNNStrategy
-python3 -m pip install --upgrade "roboquant[torch]"
-
-# Integration with Interactive Brokers using IBKRBroker
-python3 -m pip install --upgrade "roboquant[ibkr]"
-
-# Install all dependencies
-python3 -m pip install --upgrade "roboquant[all]"
+python3 -m pip install --upgrade "roboquant[yahoo]" jupyterlab matplotlib
 ```
+
+See also the roboquant.py GitHub repository for more options available to install roboquant.
 
 
 ## License
