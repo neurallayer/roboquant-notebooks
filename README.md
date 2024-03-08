@@ -26,7 +26,7 @@ For example:
 python3 -m pip install --upgrade "roboquant[yahoo]" jupyterlab matplotlib
 ```
 
-See also the roboquant.py GitHub repository for more options available to install roboquant.
+See also the [roboquant.py GitHub repository](https://github.com/neurallayer/roboquant.py) for more options available to install roboquant.
 
 
 ## License
