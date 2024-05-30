@@ -13,11 +13,12 @@ So whether you are a beginning retail trader or an established trading firm, rob
 
 
 # Usage
-This repo contains a number of Python Jupyter Notebooks that demonstrate hwo to use roboquant. 
+This repo contains a number of Python Jupyter Notebooks that demonstrate how to use roboquant. If you don't want to install anything locally, you can try-out roboquant in an online Jupyter environment like
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neurallayer/roboquant-notebooks/blob/main/intro_roboquant.ipynb)
+or
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neurallayer/roboquant-notebooks/HEAD?labpath=%2Fintro_roboquant.ipynb). 
 
-If you don't want to install anything local, you can try roboquant in an online Jupyter environment [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neurallayer/roboquant-notebooks/HEAD?labpath=%2Fintro_roboquant.ipynb)
 
- 
 Otherwise, you can install roboquant including one or more of the optional dependencies if you require certain functionality.
 For example:
 
