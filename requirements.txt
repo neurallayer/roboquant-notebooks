@@ -1,2 +1,2 @@
-roboquant[yahoo,ibkr]
+roboquant[yahoo]
 matplotlib
