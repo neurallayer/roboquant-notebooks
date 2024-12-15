@@ -24,7 +24,7 @@ For example:
 
 ```shell
 # market data from Yahoo Finance using the YahooFeed
-python3 -m pip install --upgrade "roboquant[yahoo]" jupyterlab matplotlib
+python3 -m pip install --upgrade "roboquant" jupyterlab
 ```
 
 See also the [roboquant.py GitHub repository](https://github.com/neurallayer/roboquant.py) for more options available to install roboquant.
