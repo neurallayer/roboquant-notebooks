@@ -1,2 +1,2 @@
-roboquant[yahoo]
-matplotlib
+roboquant
+
