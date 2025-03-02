@@ -7,7 +7,7 @@
 ![PyPI - Status](https://img.shields.io/pypi/status/roboquant)
 [![discord](https://img.shields.io/discord/954650958300856340?label=discord)](https://discord.com/channels/954650958300856340/954650958300856343)
 
-Roboquant is an open-source algorithmic trading platform. It is flexible, user-friendly and completely free to use. It is designed for anyone serious about algo-trading. 
+Roboquant is an open-source algorithmic trading platform. It is flexible, user-friendly and free to use. It is designed for anyone serious about algo-trading. 
 
 So whether you are a beginning retail trader or an established trading firm, roboquant can help you to develop robust and fully automated trading strategies. You can find out more at [roboquant.org](https://roboquant.org).
 
@@ -15,16 +15,12 @@ So whether you are a beginning retail trader or an established trading firm, rob
 # Usage
 This repo contains a number of Python Jupyter Notebooks that demonstrate how to use roboquant. If you don't want to install anything locally, you can try-out roboquant in an online Jupyter environment like
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neurallayer/roboquant-notebooks/blob/main/intro_roboquant.ipynb)
-or
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neurallayer/roboquant-notebooks/HEAD?labpath=%2Fintro_roboquant.ipynb). 
 
-
-Otherwise, you can install roboquant including one or more of the optional dependencies if you require certain functionality.
-For example:
+Otherwise, you can install roboquant locally. For example:
 
 ```shell
 # market data from Yahoo Finance using the YahooFeed
-python3 -m pip install --upgrade "roboquant" jupyterlab
+python3 -m pip install --upgrade roboquant jupyterlab
 ```
 
 See also the [roboquant.py GitHub repository](https://github.com/neurallayer/roboquant.py) for more options available to install roboquant.
